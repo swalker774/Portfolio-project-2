@@ -16,8 +16,15 @@ body {
   height: 0px;
 }
 img {
-text-align: center
+text-align: center;
 }
+ol {
+  text-align: center;
+}
+ul {
+  text-align: center
+}
+
 
 
 

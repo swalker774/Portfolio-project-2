@@ -21,6 +21,11 @@ body {
   margin-right: auto;
   width: 30%;
 }
-
+a:active {
+  color: #0000FF;
+}
+a:hover {
+  color: #FF00FF;
+}
 
 
